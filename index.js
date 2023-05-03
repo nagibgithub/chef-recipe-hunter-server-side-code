@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 3000;
 
-const navData = require('./data/text.json');
+const chefData = require('./data/chef.json');
 
 app.use(cors());
 
@@ -11,9 +11,9 @@ app.get('/', (req, res) => {
     res.send('this is live local server');
 });
 
-app.get('/nav', (req, res) => {
-    res.send(navData)
-})
+app.get('/chefs', (req, res) => {
+    res.send(chefData);
+});
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${ port }`);
