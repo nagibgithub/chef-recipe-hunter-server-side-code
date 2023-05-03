@@ -3,7 +3,7 @@
         {
             "_id": 1,
             "picture": "https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1683122764~exp=1683123364~hmac=b867cca96531e43c3e1f2d1e6f78384a7049ca22b8647ecb210662bb835344e0",
-            "name": "John Smith",
+            "name": "Mr. Boltu Mia",
             "experience": 10,
             "recipes": 10,
             "likes": 200,
@@ -12,7 +12,7 @@
         {
             "_id": 2,
             "picture": "https://img.freepik.com/free-vector/small-chef-illustration_23-2147517820.jpg?w=740&t=st=1683122777~exp=1683123377~hmac=2eca8c0f50a2bc1a818cd7c4db190f0c3f2e64c8d4518a9fc00ab51e2a875a83",
-            "name": "Jane Doe",
+            "name": "Kala Chan",
             "experience": 5,
             "recipes": 15,
             "likes": 150,
@@ -21,7 +21,7 @@
         {
             "_id": 3,
             "picture": "https://img.freepik.com/premium-vector/chef-logo-template-vector_671539-44.jpg?w=740",
-            "name": "Bob Johnson",
+            "name": "Laltu Miya",
             "experience": 8,
             "recipes": 20,
             "likes": 180,
@@ -30,7 +30,7 @@
         {
             "_id": 4,
             "picture": "https://img.freepik.com/premium-vector/smiling-chef-cartoon-character_8250-10.jpg?w=740",
-            "name": "Alice Williams",
+            "name": "Mokles Hopless",
             "experience": 12,
             "recipes": 18,
             "likes": 250,
@@ -39,7 +39,7 @@
         {
             "_id": 5,
             "picture": "https://img.freepik.com/premium-vector/vector-cartoon-illustration-chef_194552-631.jpg?w=740",
-            "name": "Mike Davis",
+            "name": "Akash Batash",
             "experience": 3,
             "recipes": 20,
             "likes": 100,
@@ -48,7 +48,61 @@
         {
             "_id": 6,
             "picture": "https://img.freepik.com/free-vector/hand-drawn-chef-character_23-2147630496.jpg?w=740&t=st=1683122811~exp=1683123411~hmac=751faeedbecbd7fd08dc83d65901456d900ac6713f1b10d336d720d842983224",
-            "name": "Emily Brown",
+            "name": "Rafiq Vai",
+            "experience": 6,
+            "recipes": 12,
+            "likes": 175,
+            "buttonText": "View Recipes"
+        },
+        {
+            "_id": 7,
+            "picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1683127461~exp=1683128061~hmac=f7b15fc290747ea42c9ce8f8a53aedd3d46081eb175c64705cde26c7fa2938dc",
+            "name": "Gedur Bap",
+            "experience": 6,
+            "recipes": 12,
+            "likes": 175,
+            "buttonText": "View Recipes"
+        },
+        {
+            "_id": 8,
+            "picture": "https://img.freepik.com/free-photo/medium-shot-chef-cutting-bell-pepper_23-2148723302.jpg?w=740&t=st=1683127511~exp=1683128111~hmac=050f43e58b1e9348a79c2f5be583c56c9328a66a32deebb0f98fbfd9e90a175b",
+            "name": "Pocha Miya",
+            "experience": 6,
+            "recipes": 12,
+            "likes": 175,
+            "buttonText": "View Recipes"
+        },
+        {
+            "_id": 9,
+            "picture": "https://img.freepik.com/free-photo/medium-shot-chef-posing_23-2148723238.jpg?w=740&t=st=1683127534~exp=1683128134~hmac=b4039f0b3bf4753081b9487492056dc9f77c3435f5eb9ae5304b98b94ac1f954",
+            "name": "Nagib Mahfuz",
+            "experience": 6,
+            "recipes": 12,
+            "likes": 175,
+            "buttonText": "View Recipes"
+        },
+        {
+            "_id": 10,
+            "picture": "https://img.freepik.com/premium-photo/chef-reads-food-recipe-from-tablet_207634-3519.jpg?w=740",
+            "name": "Adib Mahmud",
+            "experience": 6,
+            "recipes": 12,
+            "likes": 175,
+            "buttonText": "View Recipes"
+        },
+        {
+            "_id": 11,
+            "picture": "https://img.freepik.com/premium-vector/mascot-woman-chef-wearing-red-apron_98143-165.jpg?w=740",
+            "name": "Farhana Yeasmin",
+            "experience": 6,
+            "recipes": 12,
+            "likes": 175,
+            "buttonText": "View Recipes"
+        },
+        {
+            "_id": 12,
+            "picture": "https://img.freepik.com/free-photo/chef-thinking-white-background_1368-2821.jpg?w=740&t=st=1683127629~exp=1683128229~hmac=5b9a44576966b1f600fea374dd6b926a9b258d9dde24931de5161eaafee77dbd",
+            "name": "Toto Miya",
             "experience": 6,
             "recipes": 12,
             "likes": 175,
