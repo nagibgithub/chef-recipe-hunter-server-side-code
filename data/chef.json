@@ -12,6 +12,7 @@
             "recipes": [
                 {
                     "rec_id": 11,
+                    "chef_id": 1,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
                     "rec_name": "Chingri Malai Curry",
                     "ingredients": [
@@ -24,10 +25,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 12,
+                    "chef_id": 1,
                     "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
                     "rec_name": "Hilsha Curry",
                     "ingredients": [
@@ -40,10 +52,21 @@
                     ],
                     "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 13,
+                    "chef_id": 1,
                     "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -56,10 +79,21 @@
                     ],
                     "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 14,
+                    "chef_id": 1,
                     "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
                     "rec_name": "Chicken Korma",
                     "ingredients": [
@@ -72,10 +106,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 15,
+                    "chef_id": 1,
                     "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
                     "rec_name": "Pitha",
                     "ingredients": [
@@ -86,10 +131,21 @@
                     ],
                     "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 16,
+                    "chef_id": 1,
                     "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
                     "rec_name": "Mishti Doi",
                     "ingredients": [
@@ -99,6 +155,16 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
                     "rating": 4.7,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -115,6 +181,7 @@
             "recipes": [
                 {
                     "rec_id": 21,
+                    "chef_id": 2,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -128,10 +195,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 22,
+                    "chef_id": 2,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -144,10 +222,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 23,
+                    "chef_id": 2,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -159,10 +248,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 24,
+                    "chef_id": 2,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -175,10 +275,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 25,
+                    "chef_id": 2,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -190,10 +301,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 26,
+                    "chef_id": 2,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -205,10 +327,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 27,
+                    "chef_id": 2,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -221,6 +354,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -237,6 +380,7 @@
             "recipes": [
                 {
                     "rec_id": 31,
+                    "chef_id": 3,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
                     "rec_name": "Chingri Malai Curry",
                     "ingredients": [
@@ -249,10 +393,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 32,
+                    "chef_id": 3,
                     "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
                     "rec_name": "Hilsha Curry",
                     "ingredients": [
@@ -265,10 +420,21 @@
                     ],
                     "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 33,
+                    "chef_id": 3,
                     "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -281,10 +447,21 @@
                     ],
                     "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 34,
+                    "chef_id": 3,
                     "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
                     "rec_name": "Chicken Korma",
                     "ingredients": [
@@ -297,10 +474,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 35,
+                    "chef_id": 3,
                     "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
                     "rec_name": "Pitha",
                     "ingredients": [
@@ -311,10 +499,21 @@
                     ],
                     "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 36,
+                    "chef_id": 3,
                     "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
                     "rec_name": "Mishti Doi",
                     "ingredients": [
@@ -324,6 +523,16 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
                     "rating": 4.7,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -340,6 +549,7 @@
             "recipes": [
                 {
                     "rec_id": 41,
+                    "chef_id": 4,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -353,10 +563,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 42,
+                    "chef_id": 4,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -369,10 +590,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 43,
+                    "chef_id": 4,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -384,10 +616,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 44,
+                    "chef_id": 4,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -400,10 +643,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 45,
+                    "chef_id": 4,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -415,10 +669,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 46,
+                    "chef_id": 4,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -430,10 +695,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 47,
+                    "chef_id": 4,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -446,6 +722,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -462,6 +748,7 @@
             "recipes": [
                 {
                     "rec_id": 51,
+                    "chef_id": 5,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -475,10 +762,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 52,
+                    "chef_id": 5,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -491,10 +789,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 53,
+                    "chef_id": 5,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -506,10 +815,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 54,
+                    "chef_id": 5,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -522,10 +842,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 55,
+                    "chef_id": 5,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -537,10 +868,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 56,
+                    "chef_id": 5,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -552,10 +894,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 57,
+                    "chef_id": 5,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -568,6 +921,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -584,6 +947,7 @@
             "recipes": [
                 {
                     "rec_id": 61,
+                    "chef_id": 6,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
                     "rec_name": "Chingri Malai Curry",
                     "ingredients": [
@@ -596,10 +960,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 62,
+                    "chef_id": 6,
                     "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
                     "rec_name": "Hilsha Curry",
                     "ingredients": [
@@ -612,10 +987,21 @@
                     ],
                     "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 63,
+                    "chef_id": 6,
                     "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -628,10 +1014,21 @@
                     ],
                     "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 64,
+                    "chef_id": 6,
                     "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
                     "rec_name": "Chicken Korma",
                     "ingredients": [
@@ -644,10 +1041,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 65,
+                    "chef_id": 6,
                     "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
                     "rec_name": "Pitha",
                     "ingredients": [
@@ -658,10 +1066,21 @@
                     ],
                     "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 66,
+                    "chef_id": 6,
                     "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
                     "rec_name": "Mishti Doi",
                     "ingredients": [
@@ -671,6 +1090,16 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
                     "rating": 4.7,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -687,6 +1116,7 @@
             "recipes": [
                 {
                     "rec_id": 71,
+                    "chef_id": 7,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -700,10 +1130,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 72,
+                    "chef_id": 7,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -716,10 +1157,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 73,
+                    "chef_id": 7,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -731,10 +1183,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 74,
+                    "chef_id": 7,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -747,10 +1210,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 75,
+                    "chef_id": 7,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -762,10 +1236,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 76,
+                    "chef_id": 7,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -777,10 +1262,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 77,
+                    "chef_id": 7,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -793,6 +1289,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -809,6 +1315,7 @@
             "recipes": [
                 {
                     "rec_id": 81,
+                    "chef_id": 8,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -822,10 +1329,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 82,
+                    "chef_id": 8,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -838,10 +1356,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 83,
+                    "chef_id": 8,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -853,10 +1382,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 84,
+                    "chef_id": 8,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -869,10 +1409,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 85,
+                    "chef_id": 8,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -884,10 +1435,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 86,
+                    "chef_id": 8,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -899,10 +1461,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 87,
+                    "chef_id": 8,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -915,6 +1488,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -931,6 +1514,7 @@
             "recipes": [
                 {
                     "rec_id": 91,
+                    "chef_id": 9,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
                     "rec_name": "Chingri Malai Curry",
                     "ingredients": [
@@ -943,10 +1527,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 92,
+                    "chef_id": 9,
                     "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
                     "rec_name": "Hilsha Curry",
                     "ingredients": [
@@ -959,10 +1554,21 @@
                     ],
                     "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 93,
+                    "chef_id": 9,
                     "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -975,10 +1581,21 @@
                     ],
                     "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 94,
+                    "chef_id": 9,
                     "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
                     "rec_name": "Chicken Korma",
                     "ingredients": [
@@ -991,10 +1608,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 95,
+                    "chef_id": 9,
                     "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
                     "rec_name": "Pitha",
                     "ingredients": [
@@ -1005,10 +1633,21 @@
                     ],
                     "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 96,
+                    "chef_id": 9,
                     "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
                     "rec_name": "Mishti Doi",
                     "ingredients": [
@@ -1018,6 +1657,16 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
                     "rating": 4.7,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -1034,6 +1683,7 @@
             "recipes": [
                 {
                     "rec_id": 101,
+                    "chef_id": 10,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -1047,10 +1697,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 102,
+                    "chef_id": 10,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -1063,10 +1724,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 103,
+                    "chef_id": 10,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -1078,10 +1750,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 104,
+                    "chef_id": 10,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -1094,10 +1777,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 105,
+                    "chef_id": 10,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -1109,10 +1803,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 106,
+                    "chef_id": 10,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -1124,10 +1829,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 107,
+                    "chef_id": 10,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -1140,6 +1856,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -1156,6 +1882,7 @@
             "recipes": [
                 {
                     "rec_id": 111,
+                    "chef_id": 11,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
                     "rec_name": "Biriyani",
                     "ingredients": [
@@ -1169,10 +1896,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 112,
+                    "chef_id": 11,
                     "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
                     "rec_name": "Lamb Curry",
                     "ingredients": [
@@ -1185,10 +1923,21 @@
                     ],
                     "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 113,
+                    "chef_id": 11,
                     "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
                     "rec_name": "Fish Fry",
                     "ingredients": [
@@ -1200,10 +1949,21 @@
                     ],
                     "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 114,
+                    "chef_id": 11,
                     "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
                     "rec_name": "Palak Paneer",
                     "ingredients": [
@@ -1216,10 +1976,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 115,
+                    "chef_id": 11,
                     "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
                     "rec_name": "Dhokla",
                     "ingredients": [
@@ -1231,10 +2002,21 @@
                     ],
                     "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 116,
+                    "chef_id": 11,
                     "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
                     "rec_name": "Rasmalai",
                     "ingredients": [
@@ -1246,10 +2028,21 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
                     "rating": 4.8,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 117,
+                    "chef_id": 11,
                     "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -1262,6 +2055,16 @@
                     ],
                     "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
@@ -1278,6 +2081,7 @@
             "recipes": [
                 {
                     "rec_id": 121,
+                    "chef_id": 12,
                     "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
                     "rec_name": "Chingri Malai Curry",
                     "ingredients": [
@@ -1290,10 +2094,21 @@
                     ],
                     "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
                     "rating": 4.5,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 122,
+                    "chef_id": 12,
                     "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
                     "rec_name": "Hilsha Curry",
                     "ingredients": [
@@ -1306,10 +2121,21 @@
                     ],
                     "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
                     "rating": 4.0,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 123,
+                    "chef_id": 12,
                     "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
                     "rec_name": "Beef Bhuna",
                     "ingredients": [
@@ -1322,10 +2148,21 @@
                     ],
                     "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
                     "rating": 4.2,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 124,
+                    "chef_id": 12,
                     "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
                     "rec_name": "Chicken Korma",
                     "ingredients": [
@@ -1338,10 +2175,21 @@
                     ],
                     "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
                     "rating": 4.3,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 125,
+                    "chef_id": 12,
                     "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
                     "rec_name": "Pitha",
                     "ingredients": [
@@ -1352,10 +2200,21 @@
                     ],
                     "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
                     "rating": 4.6,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 },
                 {
                     "rec_id": 126,
+                    "chef_id": 12,
                     "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
                     "rec_name": "Mishti Doi",
                     "ingredients": [
@@ -1365,6 +2224,16 @@
                     ],
                     "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
                     "rating": 4.7,
+                    "neutrations": [
+                        "Protine: 6.60g",
+                        "Fat Total: 500g",
+                        "Fat Saturated: 90g",
+                        "Carbohydrate: 150g",
+                        "Dietary Fibre: 2.00g",
+                        "Energy: 20.50g",
+                        "Sodium: 100g",
+                        "Cholesterol: 60g"
+                    ],
                     "favorite": false
                 }
             ]
