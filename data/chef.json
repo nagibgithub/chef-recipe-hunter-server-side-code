@@ -5,108 +5,1369 @@
             "picture": "https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1683122764~exp=1683123364~hmac=b867cca96531e43c3e1f2d1e6f78384a7049ca22b8647ecb210662bb835344e0",
             "name": "Mr. Boltu Mia",
             "experience": 10,
-            "recipes": 10,
+            "recipes_no": 10,
             "likes": 200,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Mr. Boltu Mia is a culinary expert with a decade of experience. He specializes in Italian cuisine and is passionate about using fresh, locally sourced ingredients to create delicious and nutritious meals.",
+            "recipes": [
+                {
+                    "rec_id": 11,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                    "rec_name": "Chingri Malai Curry",
+                    "ingredients": [
+                        "prawns",
+                        "coconut milk",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 12,
+                    "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
+                    "rec_name": "Hilsha Curry",
+                    "ingredients": [
+                        "hilsha fish",
+                        "tomatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 13,
+                    "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 14,
+                    "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
+                    "rec_name": "Chicken Korma",
+                    "ingredients": [
+                        "chicken",
+                        "yogurt",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 15,
+                    "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
+                    "rec_name": "Pitha",
+                    "ingredients": [
+                        "rice flour",
+                        "coconut",
+                        "sugar",
+                        "milk"
+                    ],
+                    "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 16,
+                    "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
+                    "rec_name": "Mishti Doi",
+                    "ingredients": [
+                        "milk",
+                        "yogurt",
+                        "sugar"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
+                    "rating": 4.7,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 2,
             "picture": "https://img.freepik.com/free-vector/small-chef-illustration_23-2147517820.jpg?w=740&t=st=1683122777~exp=1683123377~hmac=2eca8c0f50a2bc1a818cd7c4db190f0c3f2e64c8d4518a9fc00ab51e2a875a83",
             "name": "Kala Chan",
             "experience": 5,
-            "recipes": 15,
+            "recipes_no": 15,
             "likes": 150,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Kala Chan is a seasoned chef with a love for all things spicy. She has a vast repertoire of recipes from all around the world, and is constantly experimenting with new flavors and ingredients.",
+            "recipes": [
+                {
+                    "rec_id": 21,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 22,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 23,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 24,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 25,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 26,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 27,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 3,
             "picture": "https://img.freepik.com/premium-vector/chef-logo-template-vector_671539-44.jpg?w=740",
             "name": "Laltu Miya",
             "experience": 8,
-            "recipes": 20,
+            "recipes_no": 20,
             "likes": 180,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Laltu Miya is a master of fusion cuisine, blending traditional Asian flavors with modern techniques and ingredients. He has worked in some of the most prestigious kitchens in the world, and his dishes are renowned for their complexity and depth of flavor.",
+            "recipes": [
+                {
+                    "rec_id": 31,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                    "rec_name": "Chingri Malai Curry",
+                    "ingredients": [
+                        "prawns",
+                        "coconut milk",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 32,
+                    "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
+                    "rec_name": "Hilsha Curry",
+                    "ingredients": [
+                        "hilsha fish",
+                        "tomatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 33,
+                    "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 34,
+                    "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
+                    "rec_name": "Chicken Korma",
+                    "ingredients": [
+                        "chicken",
+                        "yogurt",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 35,
+                    "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
+                    "rec_name": "Pitha",
+                    "ingredients": [
+                        "rice flour",
+                        "coconut",
+                        "sugar",
+                        "milk"
+                    ],
+                    "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 36,
+                    "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
+                    "rec_name": "Mishti Doi",
+                    "ingredients": [
+                        "milk",
+                        "yogurt",
+                        "sugar"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
+                    "rating": 4.7,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 4,
             "picture": "https://img.freepik.com/premium-vector/smiling-chef-cartoon-character_8250-10.jpg?w=740",
             "name": "Mokles Hopless",
             "experience": 12,
-            "recipes": 18,
+            "recipes_no": 18,
             "likes": 250,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Mokles Hopless is a rising star in the culinary world, with a talent for creating simple, delicious meals that are perfect for busy families. She draws inspiration from her Mexican heritage and is passionate about using fresh, whole ingredients to create flavorful dishes.",
+            "recipes": [
+                {
+                    "rec_id": 41,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 42,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 43,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 44,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 45,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 46,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 47,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 5,
             "picture": "https://img.freepik.com/premium-vector/vector-cartoon-illustration-chef_194552-631.jpg?w=740",
             "name": "Akash Batash",
             "experience": 3,
-            "recipes": 20,
+            "recipes_no": 20,
             "likes": 100,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Akash Batash is an expert in vegan and vegetarian cuisine, with a focus on using seasonal, plant-based ingredients to create nutritious and delicious meals. He has worked in some of the best vegetarian restaurants in the world, and his dishes are loved by both vegans and meat-eaters alike.",
+            "recipes": [
+                {
+                    "rec_id": 51,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 52,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 53,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 54,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 55,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 56,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 57,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 6,
             "picture": "https://img.freepik.com/free-vector/hand-drawn-chef-character_23-2147630496.jpg?w=740&t=st=1683122811~exp=1683123411~hmac=751faeedbecbd7fd08dc83d65901456d900ac6713f1b10d336d720d842983224",
             "name": "Rafiq Vai",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Rafique Vai is a pastry chef extraordinaire, with a talent for creating beautiful and delicious desserts that are both sophisticated and approachable. She has worked in some of the most renowned patisseries in the world, and her creations are a feast for the eyes and the taste buds.",
+            "recipes": [
+                {
+                    "rec_id": 61,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                    "rec_name": "Chingri Malai Curry",
+                    "ingredients": [
+                        "prawns",
+                        "coconut milk",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 62,
+                    "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
+                    "rec_name": "Hilsha Curry",
+                    "ingredients": [
+                        "hilsha fish",
+                        "tomatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 63,
+                    "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 64,
+                    "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
+                    "rec_name": "Chicken Korma",
+                    "ingredients": [
+                        "chicken",
+                        "yogurt",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 65,
+                    "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
+                    "rec_name": "Pitha",
+                    "ingredients": [
+                        "rice flour",
+                        "coconut",
+                        "sugar",
+                        "milk"
+                    ],
+                    "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 66,
+                    "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
+                    "rec_name": "Mishti Doi",
+                    "ingredients": [
+                        "milk",
+                        "yogurt",
+                        "sugar"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
+                    "rating": 4.7,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 7,
             "picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1683127461~exp=1683128061~hmac=f7b15fc290747ea42c9ce8f8a53aedd3d46081eb175c64705cde26c7fa2938dc",
             "name": "Gedur Bap",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Gedur Bap is a culinary expert with a decade of experience. He specializes in Italian cuisine and is passionate about using fresh, locally sourced ingredients to create delicious and nutritious meals.",
+            "recipes": [
+                {
+                    "rec_id": 71,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 72,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 73,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 74,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 75,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 76,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 77,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 8,
             "picture": "https://img.freepik.com/free-photo/medium-shot-chef-cutting-bell-pepper_23-2148723302.jpg?w=740&t=st=1683127511~exp=1683128111~hmac=050f43e58b1e9348a79c2f5be583c56c9328a66a32deebb0f98fbfd9e90a175b",
             "name": "Pocha Miya",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Pocha Miya is a seasoned chef with a love for all things spicy. She has a vast repertoire of recipes from all around the world, and is constantly experimenting with new flavors and ingredients.",
+            "recipes": [
+                {
+                    "rec_id": 81,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 82,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 83,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 84,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 85,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 86,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 87,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 9,
             "picture": "https://img.freepik.com/free-photo/medium-shot-chef-posing_23-2148723238.jpg?w=740&t=st=1683127534~exp=1683128134~hmac=b4039f0b3bf4753081b9487492056dc9f77c3435f5eb9ae5304b98b94ac1f954",
             "name": "Nagib Mahfuz",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Nagib Mahfuz is a master of fusion cuisine, blending traditional Asian flavors with modern techniques and ingredients. He has worked in some of the most prestigious kitchens in the world, and his dishes are renowned for their complexity and depth of flavor.",
+            "recipes": [
+                {
+                    "rec_id": 91,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                    "rec_name": "Chingri Malai Curry",
+                    "ingredients": [
+                        "prawns",
+                        "coconut milk",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 92,
+                    "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
+                    "rec_name": "Hilsha Curry",
+                    "ingredients": [
+                        "hilsha fish",
+                        "tomatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 93,
+                    "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 94,
+                    "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
+                    "rec_name": "Chicken Korma",
+                    "ingredients": [
+                        "chicken",
+                        "yogurt",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 95,
+                    "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
+                    "rec_name": "Pitha",
+                    "ingredients": [
+                        "rice flour",
+                        "coconut",
+                        "sugar",
+                        "milk"
+                    ],
+                    "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 96,
+                    "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
+                    "rec_name": "Mishti Doi",
+                    "ingredients": [
+                        "milk",
+                        "yogurt",
+                        "sugar"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
+                    "rating": 4.7,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 10,
             "picture": "https://img.freepik.com/premium-photo/chef-reads-food-recipe-from-tablet_207634-3519.jpg?w=740",
             "name": "Adib Mahmud",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Adib Mahmud is a rising star in the culinary world, with a talent for creating simple, delicious meals that are perfect for busy families. She draws inspiration from her Mexican heritage and is passionate about using fresh, whole ingredients to create flavorful dishes.",
+            "recipes": [
+                {
+                    "rec_id": 101,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 102,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 103,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 104,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 105,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 106,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 107,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 11,
             "picture": "https://img.freepik.com/premium-vector/mascot-woman-chef-wearing-red-apron_98143-165.jpg?w=740",
             "name": "Farhana Yeasmin",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Farhana Yeasmin is an expert in vegan and vegetarian cuisine, with a focus on using seasonal, plant-based ingredients to create nutritious and delicious meals. She has worked in some of the best vegetarian restaurants in the world, and his dishes are loved by both vegans and meat-eaters alike.",
+            "recipes": [
+                {
+                    "rec_id": 111,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+                    "rec_name": "Biriyani",
+                    "ingredients": [
+                        "rice",
+                        "chicken",
+                        "potatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in spices and set aside. Fry the potatoes and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Layer rice, chicken, and potatoes in a pot and cook until the rice is tender. Serve with raita, salad, or chutney.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 112,
+                    "rec_img": "https://www.thespruceeats.com/thmb/54ASs2XAFrmtEZxRWLApcHAt8FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indian-lamb-curry-1957560-hero-01-0d5dd8ed6601465daa05ce810e66b733.jpg",
+                    "rec_name": "Lamb Curry",
+                    "ingredients": [
+                        "lamb",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the lamb in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the lamb and cook until tender. Serve with naan or rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 113,
+                    "rec_img": "https://recipes.timesofindia.com/thumb/60973839.cms?width=1200&height=900",
+                    "rec_name": "Fish Fry",
+                    "ingredients": [
+                        "fish",
+                        "spices",
+                        "flour",
+                        "egg",
+                        "oil"
+                    ],
+                    "cooking_method": "Marinate the fish in spices and set aside. Make a batter using flour, egg, and spices. Dip the fish in the batter and fry until crispy. Serve with mint chutney.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 114,
+                    "rec_img": "https://food-images.files.bbci.co.uk/food/recipes/palak_paneer_85769_16x9.jpg",
+                    "rec_name": "Palak Paneer",
+                    "ingredients": [
+                        "spinach",
+                        "paneer",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spinach and cook until wilted. Blend the mixture and set aside. Fry paneer and set aside. Sautee the blended mixture, add spices, and cook until the sauce thickens. Add the paneer and cook for a few more minutes. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 115,
+                    "rec_img": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+                    "rec_name": "Dhokla",
+                    "ingredients": [
+                        "gram flour",
+                        "yogurt",
+                        "sugar",
+                        "mustard seeds",
+                        "curry leaves"
+                    ],
+                    "cooking_method": "Mix gram flour, yogurt, and sugar to make a batter. Steam the batter until cooked through. Heat oil, add mustard seeds and curry leaves, and fry until fragrant. Pour the mixture over the dhokla and serve with green chutney.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 116,
+                    "rec_img": "https://aartiatmaram.com/wp-content/uploads/2021/09/Angoori-Rasmalai-scaled.jpg",
+                    "rec_name": "Rasmalai",
+                    "ingredients": [
+                        "milk",
+                        "sugar",
+                        "cardamom",
+                        "almonds",
+                        "pistachios"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add lemon juice and let it curdle. Strain the curdled milk and knead it to make balls. Boil water and sugar with cardamom, and add the milk balls. Cook until the balls double in size. Garnish with almonds and pistachios and serve chilled.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 117,
+                    "rec_img": "https://kfoods.com/images1/newrecipeicon/bhuna-gosht-meat_1341.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "garlic",
+                        "ginger",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, garlic, and ginger until fragrant. Add beef and cook until browned. Add tomatoes and spices, and cook until the sauce thickens. Serve with rice or naan.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
         },
         {
             "_id": 12,
             "picture": "https://img.freepik.com/free-photo/chef-thinking-white-background_1368-2821.jpg?w=740&t=st=1683127629~exp=1683128229~hmac=5b9a44576966b1f600fea374dd6b926a9b258d9dde24931de5161eaafee77dbd",
             "name": "Toto Miya",
             "experience": 6,
-            "recipes": 12,
+            "recipes_no": 12,
             "likes": 175,
-            "buttonText": "View Recipes"
+            "buttonText": "View Recipes",
+            "details": "Chef Toto Miya is a pastry chef extraordinaire, with a talent for creating beautiful and delicious desserts that are both sophisticated and approachable. She has worked in some of the most renowned patisseries in the world, and her creations are a feast for the eyes and the taste buds.",
+            "recipes": [
+                {
+                    "rec_id": 121,
+                    "rec_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                    "rec_name": "Chingri Malai Curry",
+                    "ingredients": [
+                        "prawns",
+                        "coconut milk",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Sautee onion, ginger, and garlic, then add spices and coconut milk. Add prawns and simmer until cooked through. Serve with rice.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 122,
+                    "rec_img": "https://travelfoodatlas.com/wp-content/uploads/2022/06/hilsa-curry-735x505.jpg",
+                    "rec_name": "Hilsha Curry",
+                    "ingredients": [
+                        "hilsha fish",
+                        "tomatoes",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Fry the fish and set aside. Sautee onion, ginger, and garlic, then add tomatoes and spices. Add water and simmer until the sauce thickens. Add the fish and cook for a few more minutes. Serve with rice.",
+                    "rating": 4.0,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 123,
+                    "rec_img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+                    "rec_name": "Beef Bhuna",
+                    "ingredients": [
+                        "beef",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "tomatoes",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the beef in spices and set aside. Sautee onion, ginger, and garlic, then add tomatoes and cook until the sauce thickens. Add the beef and cook until tender. Serve with naan or rice.",
+                    "rating": 4.2,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 124,
+                    "rec_img": "https://i.ndtvimg.com/i/2016-10/chicken-korma_650x400_51475662188.jpg",
+                    "rec_name": "Chicken Korma",
+                    "ingredients": [
+                        "chicken",
+                        "yogurt",
+                        "onion",
+                        "ginger",
+                        "garlic",
+                        "spices"
+                    ],
+                    "cooking_method": "Marinate the chicken in yogurt and spices and set aside. Sautee onion, ginger, and garlic, then add the chicken and cook until tender. Serve with rice or naan.",
+                    "rating": 4.3,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 125,
+                    "rec_img": "https://1.bp.blogspot.com/-UqBN0rEb-n0/X_SL3DdqHAI/AAAAAAAAN7w/DeocL6wnWFIr5CDjCDt0ITUIoRF2vqdGwCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe.JPG",
+                    "rec_name": "Pitha",
+                    "ingredients": [
+                        "rice flour",
+                        "coconut",
+                        "sugar",
+                        "milk"
+                    ],
+                    "cooking_method": "Mix rice flour, coconut, and sugar. Add milk to make a dough. Shape the dough and steam until cooked through. Serve with tea.",
+                    "rating": 4.6,
+                    "favorite": false
+                },
+                {
+                    "rec_id": 126,
+                    "rec_img": "https://img-global.cpcdn.com/recipes/a554dbdc8d6a43fc/1200x630cq70/photo.jpg",
+                    "rec_name": "Mishti Doi",
+                    "ingredients": [
+                        "milk",
+                        "yogurt",
+                        "sugar"
+                    ],
+                    "cooking_method": "Boil the milk and let it cool down. Add yogurt and sugar and mix well. Pour the mixture into individual bowls and refrigerate until set. Serve chilled.",
+                    "rating": 4.7,
+                    "favorite": false
+                }
+            ]
         }
     ]
 }
